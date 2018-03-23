@@ -1,0 +1,22 @@
+{
+  "name": "jspattern",
+  "version": "1.0.0",
+  "description": "JavaScript设计模式Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hugo42813760/JSPattern.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hugo42813760/JSPattern/issues"
+  },
+  "homepage": "https://github.com/Hugo42813760/JSPattern#readme"
+}
